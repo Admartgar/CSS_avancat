@@ -15,8 +15,11 @@
 
     
 
+    .foto{
+        float: left;
+    }
 
-
+        
     ul{
         flex-direction: row;
         display: flex;
@@ -64,6 +67,7 @@
         background-image: url(imagenes/fons.jpg);
         opacity: .9;
         background-color: black;
+        
     }
 
     header{
